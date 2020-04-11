@@ -1,0 +1,5 @@
+/.idea/
+/*/target/
+/wms-web/src/test/
+/wms.iml
+/*/*.iml
