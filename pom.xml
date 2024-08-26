@@ -18,7 +18,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <springfox.swagger.version>2.9.2</springfox.swagger.version>
+        <springfox.swagger.version>2.10.0</springfox.swagger.version>
         <lombok.version>1.18.10</lombok.version>
         <auth0.jwt.version>3.8.3</auth0.jwt.version>
         <fastjson.version>1.2.58</fastjson.version>
